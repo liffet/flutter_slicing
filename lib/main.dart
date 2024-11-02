@@ -288,7 +288,7 @@ class _HomeScreenState extends State<HomeScreen> {
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: [
                       Image.asset(
-                        'assets/burger.jpg',
+                        'assets/burger 2.jpg',
                         width: 60,
                         height: 60,
                       ),
